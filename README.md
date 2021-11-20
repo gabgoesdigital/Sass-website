@@ -1,3 +1,3 @@
 # Website made using Sass
 
-Some description
+Website Projecct made by using Sass. 
